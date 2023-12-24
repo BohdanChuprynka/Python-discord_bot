@@ -1,5 +1,5 @@
 # Python-discord_bot
-Discord bot based on python has some features, as a full working level system, some test commands to check the functionality and auto-role giving, when user got certain level. experience
+Discord bot based on python has some features, as a full working level system, some test commands to check the functionality and auto-role giving, when user got certain level. 
 
 To launch the bot, you should do few more steps:
 
